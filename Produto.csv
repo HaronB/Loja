@@ -1,0 +1,7 @@
+Cod_Produto;Nome;Quantidade;Valor_Compra;Valor_Venda;Minimo;Ideal;Maximo
+1;arroz;0;3.00;5.00;20;35;60
+2;alho;0;1.00;3.00;50;75;100
+3;carne;0;10.00;20.00;10;20;30
+4;queijo;0;10.00;15.00;20;36;55
+5;pao;0;0.50;1.00;50;70;120
+6;presunto;0;5.00;10.00;20;40;70
